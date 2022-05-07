@@ -351,6 +351,7 @@ main {
     width: 3rem;
     height: 3rem;
     cursor: pointer;
+    z-index: 40;
 }
 .modal .cerrar-modal img {
     width: 100%;
