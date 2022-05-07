@@ -370,6 +370,7 @@ main {
         overflow: hidden;
         max-width: 32rem;
         height: 100vh;
+        position: absolute;
     }
 }
 .modal label {
