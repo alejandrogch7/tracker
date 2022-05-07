@@ -154,6 +154,7 @@ header h1 {
     width: 90%;
     max-width: 80rem;
     margin: 0 auto;
+    max-height: 100vh;
 }
 .contenedor-presupuesto {
     margin-top: -5rem;
