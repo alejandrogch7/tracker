@@ -371,7 +371,7 @@ main {
     .modal .formulario{
         overflow: hidden;
         max-width: 32rem;
-        height: 100vh;
+        max-height: 100vh;
         position: absolute;
     }
 }
